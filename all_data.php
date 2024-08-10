@@ -24,7 +24,7 @@ if ($users){
         <th>gender</th>
         <th>Address</th>
         <th>Department</th>
-        <th>Email</th>
+        <th>E-mail</th>
         <th>Password</th>
         <th >skills</th>
      </tr>
